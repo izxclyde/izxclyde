@@ -20,7 +20,7 @@
 - 📱 I craft native mobile experiences with **Kotlin**, **Java**, and **Flutter**
 - 🤖 I automate complex business workflows using **UiPath RPA**
 - 💡 I'm passionate about clean architecture, performance optimization, and great DX
-- 🌍 Based in the Philippines · Open to remote and freelance opportunities
+- 🌍 Based in the Riyadh, Saudi Arabia · Open to remote and freelance opportunities
 
 ---
 
