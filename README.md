@@ -60,9 +60,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izxclyde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=izxclyde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izxclyde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=izxclyde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=izxclyde&theme=tokyonight&hide_border=true)
 
